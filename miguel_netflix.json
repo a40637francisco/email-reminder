@@ -11,8 +11,8 @@
         }
     },
     "emails": ["francisco.dias@challenge.pt", "francisco.dias91@hotmail.com"],
-    "body": "Test first email send",
+    "body": "Paga a netflix porca",
     "subject": "Paga o que deves",
-    "from": "Pagar Netflix <francisco.dias791@gmail.com>",
+    "from": "Pagar Netflix <alerta.email.noreply@gmail.com>",
     "dayOfSend": 13
 }
