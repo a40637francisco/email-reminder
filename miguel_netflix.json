@@ -1,0 +1,18 @@
+{
+    "config": {
+        "imapHost": "smtp.gmail.com",
+        "imapPort": 993,
+        "host": "smtp.gmail.com",
+        "port": 587,
+        "secure": false,
+        "auth": {
+            "user": "alerta.email.noreply@gmail.com",
+            "pass": "password1234&"
+        }
+    },
+    "emails": ["francisco.dias@challenge.pt", "francisco.dias91@hotmail.com"],
+    "body": "Test first email send",
+    "subject": "Paga o que deves",
+    "from": "Pagar Netflix <francisco.dias791@gmail.com>",
+    "dayOfSend": 13
+}
